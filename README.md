@@ -2,7 +2,7 @@
 
 Given a string of text, write a program that prints a list of unique words contained in the string
 along with the number of occurrences of each word in the string. The list should be sorted by
-the number of occurrences of each word in descending order. The ans file's name is ans.txt.
+the number of occurrences of each word in descending order. The answer file's name is ans.txt.
 
 ## Getting Started
 
